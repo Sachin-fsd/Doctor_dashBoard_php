@@ -1,0 +1,10 @@
+body{
+    background-image: url('https://png.pngtree.com/background/20230604/original/pngtree-modern-corporate-business-office-help-desk-background-picture-image_2873054.jpg');
+    background-size: cover;
+}
+
+.card{
+    margin-top: 3em;
+    margin-left: 30em;
+    margin-right: 30em;
+}
